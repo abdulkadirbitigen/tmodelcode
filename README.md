@@ -1,2 +1,2 @@
-# tmodelcoe
+# tmodelcode
 veritabanı ve kodlar
